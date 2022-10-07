@@ -1,16 +1,38 @@
-### Hi there 👋
+# Hi 👋, I'm Muhammad Muawiyah!
 
-<!--
-**MuawiyahDev/MuawiyahDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I’m Muhammad Muawiyah a Full Stack Web Developer & Mobile App Developer with over 5+ years of experience. I have very good skills in JavaScript, ReactJS, Vue.js, Next.js, Nuxt.js, PHP and MySQL. I am also a YouTuber and I am always ready to learn new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠 Skills
+
+**💻 Tech Stacks**
+- React.js / Vue.js
+- Next.js / Nuxt.js
+- JavaScript / ES6 / jQuery
+- Tailwind CSS / Bootstrap / Bulma / Material UI
+- CSS / SASS / SCSS
+- HTML / CSS
+- PHP / Node.js / MySQL
+- React Native / Expo
+- NPM / Yarn
+
+**🎁 Other Skills**
+- Wireframe Design: Figma / Adobe XD
+- Basic Design: Adobe Illustrator / Adobe Photoshop
+- Version Control: Git, GitHub
+
+## 🔗 Connect with me
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://muawiyah.dev/)
+[![youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/BraveCoder)
+[![discord](https://img.shields.io/badge/discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/8HW4JAus2K)
+
+
+## Hobbies
+
+🧠 Learning new things
+
+📺 Making informative YouTube videos
+
+⚡️ Doing personal projects
