@@ -33,6 +33,6 @@ I’m Muhammad Muawiyah a Full Stack Web Developer & Mobile App Developer with o
 
 🧠 Learning new things
 
-📺 Making informative YouTube videos
+📺 Coding personal projects
 
-⚡️ Doing personal projects
+⚡️ Helping people with coding errors
