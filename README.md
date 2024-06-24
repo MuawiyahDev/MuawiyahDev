@@ -10,11 +10,12 @@ I’m Muhammad Muawiyah a Full Stack Web Developer & Mobile App Developer with o
 **💻 Tech Stacks**
 - React.js / Vue.js
 - Next.js / Nuxt.js
-- JavaScript / ES6 / jQuery
-- Tailwind CSS / Bootstrap / Bulma / Material UI
-- CSS / SASS / SCSS
+- JavaScript / TypeScript
+- Tailwind CSS / Bootstrap / Shadcn / Material UI
+- CSS / SASS
 - HTML / CSS
-- PHP / Node.js / MySQL
+- PHP / Node.js / Express.js
+- MongoDB / MySQL
 - React Native / Expo
 - NPM / Yarn
 
