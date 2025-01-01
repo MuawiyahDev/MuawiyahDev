@@ -2,7 +2,7 @@
 
 
 ## 🚀 About Me
-I’m Muhammad Muawiyah a Full Stack Web Developer & Mobile App Developer with over 5+ years of experience. I have very good skills in JavaScript, ReactJS, Vue.js, Next.js, Nuxt.js, React Native, PHP and MySQL. I am also a YouTuber and I am always ready to learn new technologies.
+I’m Muhammad Muawiyah a Full Stack Web Developer & Mobile App Developer with over 6+ years of experience. I have very good skills in JavaScript, ReactJS, Vue.js, Next.js, Nuxt.js, React Native, PHP and MySQL. I am also a YouTuber and I am always ready to learn new technologies.
 
 
 ## 🛠 Skills
