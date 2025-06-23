@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/muawiyahdev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-MuawiyahDev-blue?style=flat-square&logo=linkedin" />
   </a>
-  <a href="https://www.youtube.com/@MuawiyahDev" target="_blank">
+  <a href="https://www.youtube.com/@BraveCoder" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-MuawiyahDev-red?style=flat-square&logo=youtube" />
   </a>
 </p>
